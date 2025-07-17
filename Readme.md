@@ -1,5 +1,5 @@
 
-# 🔧 Custom ESXi ISO Creation Guide
+# 🔧 Custom ESXi ISO and Depot Creation Guide
 
 This PowerShell script is to create a custom ESXi ISO and Depot by injecting async drivers into a standard VMware ESXI image. The script supports both Windows and macOS.
 
