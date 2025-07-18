@@ -3,6 +3,8 @@
 
 This PowerShell script is to create a custom ESXi ISO and Depot by injecting async drivers into a standard VMware ESXI image. The script supports both Windows and macOS.
 
+This Version 1.0 supports VMware ESXi 9.0 Build 24755229.
+
 ---
 
 ### Prerequisite for windows
