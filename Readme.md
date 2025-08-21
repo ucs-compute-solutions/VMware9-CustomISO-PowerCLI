@@ -1,7 +1,7 @@
 
 # 🔧 Custom ESXi ISO and Depot Creation Guide
 
-This PowerShell script is to create a custom ESXi ISO and Depot by injecting async drivers into a standard VMware ESXI image. The script supports both Windows and macOS.
+This PowerShell script creates a custom ESXi ISO and Depot by injecting async drivers into a standard VMware ESXI image. The script supports both Windows and macOS.
 
 This Version 1.0 supports VMware ESXi 9.0 Build 24755229.
 
@@ -74,7 +74,7 @@ brew install --cask powershell
 
 7. The **custom ESXi ISO** will be created in the same directory, named with the original image name and current timestamp.
 
-# Note: If we run the script for the first time it approximetly takes 10 minutes to install all the required packages, but subsiquient creation will take 1-2 minut,
+# Note: If we run the script for the first time it approximetly takes 10 minutes to install all the required packages, but subsequent creation will take 1-2 minutes.
 
 ---
 
