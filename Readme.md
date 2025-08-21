@@ -74,7 +74,7 @@ brew install --cask powershell
 
 7. The **custom ESXi ISO** will be created in the same directory, named with the original image name and current timestamp.
 
-# Note: If we run the script for the first time it approximetly takes 10 minutes to install all the required packages, but subsequent creation will take 1-2 minutes.
+# Note: If we run the script for the first time it takes approximately 10 minutes to install all the required packages, but subsequent creation will take 1-2 minutes.
 
 ---
 
